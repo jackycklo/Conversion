@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Coversion</string>
     <string name="convert_from_text">Convert From</string>
-    <string name="default_teaspoon_value">default_teaspoon_value</string>
+    <string name="default_teaspoon_value">teaspoon_value</string>
 </resources>
