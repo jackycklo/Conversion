@@ -1,4 +1,4 @@
-package com.jackylo.coversion;
+package com.jackylo.conversion;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

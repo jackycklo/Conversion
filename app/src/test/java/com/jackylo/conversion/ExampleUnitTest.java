@@ -1,4 +1,4 @@
-package com.jackylo.coversion;
+package com.jackylo.conversion;
 
 import org.junit.Test;
 
